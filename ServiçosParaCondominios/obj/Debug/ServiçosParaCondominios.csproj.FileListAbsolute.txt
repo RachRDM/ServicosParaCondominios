@@ -1,0 +1,73 @@
+H:\POO\ServiçosParaCondominios\ServiçosParaCondominios\bin\Debug\ServiçosParaCondominios.exe.config
+H:\POO\ServiçosParaCondominios\ServiçosParaCondominios\bin\Debug\ServiçosParaCondominios.exe
+H:\POO\ServiçosParaCondominios\ServiçosParaCondominios\bin\Debug\ServiçosParaCondominios.pdb
+H:\POO\ServiçosParaCondominios\ServiçosParaCondominios\bin\Debug\MySql.Data.dll
+H:\POO\ServiçosParaCondominios\ServiçosParaCondominios\bin\Debug\MySql.Web.dll
+H:\POO\ServiçosParaCondominios\ServiçosParaCondominios\bin\Debug\MySql.Data.xml
+H:\POO\ServiçosParaCondominios\ServiçosParaCondominios\bin\Debug\MySql.Web.xml
+H:\POO\ServiçosParaCondominios\ServiçosParaCondominios\obj\Debug\ServiçosParaCondominios.csprojResolveAssemblyReference.cache
+H:\POO\ServiçosParaCondominios\ServiçosParaCondominios\obj\Debug\ServiçosParaCondominios.OrdemServico.resources
+H:\POO\ServiçosParaCondominios\ServiçosParaCondominios\obj\Debug\ServiçosParaCondominios.Properties.Resources.resources
+H:\POO\ServiçosParaCondominios\ServiçosParaCondominios\obj\Debug\ServiçosParaCondominios.Sindico.resources
+H:\POO\ServiçosParaCondominios\ServiçosParaCondominios\obj\Debug\ServiçosParaCondominios.csproj.GenerateResource.Cache
+H:\POO\ServiçosParaCondominios\ServiçosParaCondominios\obj\Debug\ServiçosParaCondominios.csproj.CoreCompileInputs.cache
+H:\POO\ServiçosParaCondominios\ServiçosParaCondominios\obj\Debug\ServiçosParaCondominios.exe
+H:\POO\ServiçosParaCondominios\ServiçosParaCondominios\obj\Debug\ServiçosParaCondominios.pdb
+C:\Users\RACHEL RDM\Documents\Visual Studio 2017\Projects\ServiçosParaCondominios\ServiçosParaCondominios\bin\Debug\ServiçosParaCondominios.exe.config
+C:\Users\RACHEL RDM\Documents\Visual Studio 2017\Projects\ServiçosParaCondominios\ServiçosParaCondominios\bin\Debug\ServiçosParaCondominios.exe
+C:\Users\RACHEL RDM\Documents\Visual Studio 2017\Projects\ServiçosParaCondominios\ServiçosParaCondominios\bin\Debug\ServiçosParaCondominios.pdb
+C:\Users\RACHEL RDM\Documents\Visual Studio 2017\Projects\ServiçosParaCondominios\ServiçosParaCondominios\obj\Debug\ServiçosParaCondominios.Properties.Resources.resources
+C:\Users\RACHEL RDM\Documents\Visual Studio 2017\Projects\ServiçosParaCondominios\ServiçosParaCondominios\obj\Debug\ServiçosParaCondominios.csproj.GenerateResource.cache
+C:\Users\RACHEL RDM\Documents\Visual Studio 2017\Projects\ServiçosParaCondominios\ServiçosParaCondominios\obj\Debug\ServiçosParaCondominios.csproj.CoreCompileInputs.cache
+C:\Users\RACHEL RDM\Documents\Visual Studio 2017\Projects\ServiçosParaCondominios\ServiçosParaCondominios\obj\Debug\ServiçosParaCondominios.csproj.CopyComplete
+C:\Users\RACHEL RDM\Documents\Visual Studio 2017\Projects\ServiçosParaCondominios\ServiçosParaCondominios\obj\Debug\ServiçosParaCondominios.exe
+C:\Users\RACHEL RDM\Documents\Visual Studio 2017\Projects\ServiçosParaCondominios\ServiçosParaCondominios\obj\Debug\ServiçosParaCondominios.pdb
+C:\Users\RACHEL RDM\Documents\Visual Studio 2017\Projects\ServiçosParaCondominios\ServiçosParaCondominios\obj\Debug\ServiçosParaCondominios.Frm_login.resources
+C:\Users\RACHEL RDM\Documents\Visual Studio 2017\Projects\ServiçosParaCondominios\ServiçosParaCondominios\obj\Debug\ServiçosParaCondominios.Frm_Sindico.resources
+C:\Users\RACHEL RDM\Documents\Visual Studio 2017\Projects\ServiçosParaCondominios\ServiçosParaCondominios\obj\Debug\ServiçosParaCondominios.Frm_Servicos.resources
+C:\Users\RACHEL RDM\Documents\Visual Studio 2017\Projects\ServiçosParaCondominios\ServiçosParaCondominios\obj\Debug\ServiçosParaCondominios.Frm_MenuConservadora.resources
+C:\Users\RACHEL RDM\Documents\Visual Studio 2017\Projects\ServiçosParaCondominios\ServiçosParaCondominios\obj\Debug\ServiçosParaCondominios.Frm_MenuSindico.resources
+C:\Users\RACHEL RDM\Documents\Visual Studio 2017\Projects\ServiçosParaCondominios\ServiçosParaCondominios\obj\Debug\ServiçosParaCondominios.csprojAssemblyReference.cache
+C:\Users\RACHEL RDM\Documents\Visual Studio 2017\Projects\ServiçosParaCondominios\ServiçosParaCondominios\obj\Debug\ServiçosParaCondominios.Frm_OS_Conservadora.resources
+C:\Users\RACHEL RDM\Documents\Visual Studio 2017\Projects\ServiçosParaCondominios\ServiçosParaCondominios\obj\Debug\ServiçosParaCondominios.Frm_OS_Sindico.resources
+H:\ServiçosParaCondominios\ServiçosParaCondominios\bin\Debug\ServiçosParaCondominios.exe.config
+H:\ServiçosParaCondominios\ServiçosParaCondominios\bin\Debug\ServiçosParaCondominios.exe
+H:\ServiçosParaCondominios\ServiçosParaCondominios\bin\Debug\ServiçosParaCondominios.pdb
+H:\ServiçosParaCondominios\ServiçosParaCondominios\bin\Debug\MySql.Data.dll
+H:\ServiçosParaCondominios\ServiçosParaCondominios\bin\Debug\MySql.Web.dll
+H:\ServiçosParaCondominios\ServiçosParaCondominios\bin\Debug\MySql.Data.xml
+H:\ServiçosParaCondominios\ServiçosParaCondominios\bin\Debug\MySql.Web.xml
+H:\ServiçosParaCondominios\ServiçosParaCondominios\obj\Debug\ServiçosParaCondominios.csprojResolveAssemblyReference.cache
+H:\ServiçosParaCondominios\ServiçosParaCondominios\obj\Debug\ServiçosParaCondominios.Frm_MenuConservadora.resources
+H:\ServiçosParaCondominios\ServiçosParaCondominios\obj\Debug\ServiçosParaCondominios.Frm_login.resources
+H:\ServiçosParaCondominios\ServiçosParaCondominios\obj\Debug\ServiçosParaCondominios.Frm_MenuSindico.resources
+H:\ServiçosParaCondominios\ServiçosParaCondominios\obj\Debug\ServiçosParaCondominios.Frm_OS_Conservadora.resources
+H:\ServiçosParaCondominios\ServiçosParaCondominios\obj\Debug\ServiçosParaCondominios.Frm_OS_Sindico.resources
+H:\ServiçosParaCondominios\ServiçosParaCondominios\obj\Debug\ServiçosParaCondominios.Frm_Relatorio.resources
+H:\ServiçosParaCondominios\ServiçosParaCondominios\obj\Debug\ServiçosParaCondominios.Frm_Servicos.resources
+H:\ServiçosParaCondominios\ServiçosParaCondominios\obj\Debug\ServiçosParaCondominios.Properties.Resources.resources
+H:\ServiçosParaCondominios\ServiçosParaCondominios\obj\Debug\ServiçosParaCondominios.Frm_Sindico.resources
+H:\ServiçosParaCondominios\ServiçosParaCondominios\obj\Debug\ServiçosParaCondominios.csproj.GenerateResource.Cache
+H:\ServiçosParaCondominios\ServiçosParaCondominios\obj\Debug\ServiçosParaCondominios.csproj.CoreCompileInputs.cache
+H:\ServiçosParaCondominios\ServiçosParaCondominios\obj\Debug\ServiçosParaCondominios.exe
+H:\ServiçosParaCondominios\ServiçosParaCondominios\obj\Debug\ServiçosParaCondominios.pdb
+C:\Users\RACHEL RDM\Downloads\ServiçosParaCondominios\ServiçosParaCondominios\bin\Debug\ServiçosParaCondominios.exe.config
+C:\Users\RACHEL RDM\Downloads\ServiçosParaCondominios\ServiçosParaCondominios\bin\Debug\ServiçosParaCondominios.exe
+C:\Users\RACHEL RDM\Downloads\ServiçosParaCondominios\ServiçosParaCondominios\bin\Debug\ServiçosParaCondominios.pdb
+C:\Users\RACHEL RDM\Downloads\ServiçosParaCondominios\ServiçosParaCondominios\bin\Debug\MySql.Data.xml
+C:\Users\RACHEL RDM\Downloads\ServiçosParaCondominios\ServiçosParaCondominios\bin\Debug\MySql.Web.xml
+C:\Users\RACHEL RDM\Downloads\ServiçosParaCondominios\ServiçosParaCondominios\obj\Debug\ServiçosParaCondominios.csprojAssemblyReference.cache
+C:\Users\RACHEL RDM\Downloads\ServiçosParaCondominios\ServiçosParaCondominios\obj\Debug\ServiçosParaCondominios.Frm_MenuConservadora.resources
+C:\Users\RACHEL RDM\Downloads\ServiçosParaCondominios\ServiçosParaCondominios\obj\Debug\ServiçosParaCondominios.Frm_login.resources
+C:\Users\RACHEL RDM\Downloads\ServiçosParaCondominios\ServiçosParaCondominios\obj\Debug\ServiçosParaCondominios.Frm_MenuSindico.resources
+C:\Users\RACHEL RDM\Downloads\ServiçosParaCondominios\ServiçosParaCondominios\obj\Debug\ServiçosParaCondominios.Frm_OS_Conservadora.resources
+C:\Users\RACHEL RDM\Downloads\ServiçosParaCondominios\ServiçosParaCondominios\obj\Debug\ServiçosParaCondominios.Frm_OS_Sindico.resources
+C:\Users\RACHEL RDM\Downloads\ServiçosParaCondominios\ServiçosParaCondominios\obj\Debug\ServiçosParaCondominios.Frm_Relatorio.resources
+C:\Users\RACHEL RDM\Downloads\ServiçosParaCondominios\ServiçosParaCondominios\obj\Debug\ServiçosParaCondominios.Frm_Servicos.resources
+C:\Users\RACHEL RDM\Downloads\ServiçosParaCondominios\ServiçosParaCondominios\obj\Debug\ServiçosParaCondominios.Properties.Resources.resources
+C:\Users\RACHEL RDM\Downloads\ServiçosParaCondominios\ServiçosParaCondominios\obj\Debug\ServiçosParaCondominios.Frm_Sindico.resources
+C:\Users\RACHEL RDM\Downloads\ServiçosParaCondominios\ServiçosParaCondominios\obj\Debug\ServiçosParaCondominios.csproj.GenerateResource.cache
+C:\Users\RACHEL RDM\Downloads\ServiçosParaCondominios\ServiçosParaCondominios\obj\Debug\ServiçosParaCondominios.csproj.CoreCompileInputs.cache
+C:\Users\RACHEL RDM\Downloads\ServiçosParaCondominios\ServiçosParaCondominios\obj\Debug\ServiçosParaCondominios.csproj.CopyComplete
+C:\Users\RACHEL RDM\Downloads\ServiçosParaCondominios\ServiçosParaCondominios\obj\Debug\ServiçosParaCondominios.exe
+C:\Users\RACHEL RDM\Downloads\ServiçosParaCondominios\ServiçosParaCondominios\obj\Debug\ServiçosParaCondominios.pdb
